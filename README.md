@@ -1,4 +1,4 @@
-THESIS
+THESIS - https://www.irjet.net/archives/V6/i5/IRJET-V6I5774.pdf
 
 Abstract - With growing rate of website handlers in day to day activities. The analysis of the data specified by the user is essential to process the semantic analysis of any website. To improve the efficiency of the analysis we use Jeffrey Breen approach which helps to find the semantic orientation of the words in the streaming websites like twitter and YouTube using the API’s. The algorithm calculates the sentimental score and assigns an integer value for the word or sentence given by the user and that integer is used to calculate the score for the word given based up on the sentimental score calculated we categorize the result as positive or negative. So in this project we propose an Sentiment analysis of texts and videos of the website by being access to the tokens with the API key with both video and texts and performing with the sentiment analysis of data and publish the same to the mongoDB data server for future reference of data access. This implementation helps in user to access the API so as to get the user’s sentimental view of any search keyword.
 
